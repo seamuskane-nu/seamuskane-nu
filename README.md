@@ -3,7 +3,6 @@
 **Computer Science & Music Technology Student** | Northeastern University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seamus--kane-blue)](https://linkedin.com/in/seamus-kane-/)
-[![GitHub](https://img.shields.io/badge/GitHub-seamuskane--nu-black)](https://github.com/seamuskane-nu)
 [![Email](https://img.shields.io/badge/Email-kane.sea%40northeastern.edu-red)](mailto:kane.sea@northeastern.edu)
 
 ---
@@ -80,4 +79,3 @@ I'm always interested in collaborating on projects involving:
 
 **Email:** kane.sea@northeastern.edu  
 **LinkedIn:** [linkedin.com/in/seamus-kane-/](https://linkedin.com/in/seamus-kane-/)  
-**GitHub:** [github.com/seamuskane-nu](https://github.com/seamuskane-nu)
